@@ -158,11 +158,13 @@
 
 
 .glitch {
-  color: rgb(223, 191, 191);
-  position: relative;
-  font-size: 9vw;
-  // margin: 70px 200px;
- animation: flicker 3.732s infinite linear alternate-reverse;
+    position: relative;
+    color: white;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    animation: glitch-skew 1s infinite linear alternate-reverse;
+    animation: flicker 3.732s infinite linear alternate-reverse;
 }
 
 .glitch::before {
