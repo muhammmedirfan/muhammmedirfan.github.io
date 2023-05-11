@@ -15,13 +15,13 @@
     font-size: 200%;
     margin-top: 0.2%;
     margin-bottom: 0%;
-    font-family: Bison;
+    font-family: 'Bison';
     font-size: 200%;
   
   }
   
   #red {
-    color: white;
+    color: "white";
     font-family: 'Ubuntu Mono', monospace;
     font-size: 100%;
     margin: 0%;
