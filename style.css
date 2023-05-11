@@ -100,6 +100,11 @@
     .link1 {
       font-size: 5vw;
     }
+      
+      .badge {
+          margin-top:15px;
+          
+      }
   
     #heading {
       font-family: 'Righteous', cursive;
