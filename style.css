@@ -1,8 +1,14 @@
 #heading {
-       font-family: 'Righteous', cursive;
-    font-size: 500%;
-    color: white;
-    margin: 0%;
+           text-align: center;
+    color: #fff;
+    font-size: 5em;
+    letter-spacing: 8px;
+    font-family: 'Press Start 2P';
+    margin-top: 20;
+    font-weight: 400;
+    margin-bottom: 20%;
+    line-height: 0;
+    animation: glitch1 2.5s infinite;
   }
   
   #me {
@@ -60,13 +66,7 @@
     .link1 {
       font-size: 4vw;
     }
-  
-    #heading {
-      font-family: 'Righteous', cursive;
-      font-size: 300%;
-      color: white;
-      margin: 0%;
-    }
+ 
   
     #me {
       font-size: 100%;
@@ -131,13 +131,6 @@
   @media screen and (min-width: 1390px) {
     .header2 {
       font-size: 1.1vw;
-    }
-  
-    #heading {
-      font-family: 'Righteous', cursive;
-      font-size: 500%;
-      color: white;
-      margin: 0%;
     }
   
     #me {
